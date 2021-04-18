@@ -10,7 +10,7 @@
 #### sudo ssh root@yourServer-ip
 #### Write password of your server
 ### 2- Clone FaildLogin file نسخ الملف للسيرفر  
-#### git clone 
+#### git clone https://github.com/OhoudAlawad/SuccessLoginReport
 ### 3- Write
 #### mv SuccessLoginReport/* .
 #### rm -rf SuccessLoginReport/
