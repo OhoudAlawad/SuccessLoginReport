@@ -9,7 +9,7 @@
 #### Write in commend prompt:
 #### sudo ssh root@yourServer-ip
 #### Write password of your server
-### 2- Clone FaildLogin file نسخ الملف للسيرفر  
+### 2- Clone SuccessLoginReport file نسخ الملف للسيرفر  
 #### git clone https://github.com/OhoudAlawad/SuccessLoginReport
 ### 3- Write
 #### mv SuccessLoginReport/* .
