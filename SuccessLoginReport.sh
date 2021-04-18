@@ -2,7 +2,7 @@
 echo "
                  Welcome to Login Successful Report
 
-                           Programing By
+                          Programming By
 
                            Ohoud Alawad
 
