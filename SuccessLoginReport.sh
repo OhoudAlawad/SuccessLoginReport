@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "
-                 Welcome to Login Attempts Report
+                 Welcome to Login Successful Report
 
                            Programing By
 
