@@ -17,5 +17,5 @@
 ### 4- Run SuccessLoginReport.sh
 #### chmod +x SuccessLoginReport.sh
 #### ./SuccessLoginReport.sh
-# vedio explain شرح بالفيديو
+# Vedio Explain شرح بالفيديو
 #### https://twitter.com/ohoud_alawad/status/1384140647150460941?s=20
