@@ -1,3 +1,15 @@
+##
+#       Find all failed login Attempts in web server
+#
+#       v1.1; April 2021
+#       Copyrights:
+#       Ohoud Alawad
+#       GitHub:
+#       https://github.com/OhoudAlawad
+#       Twitter:
+#       @ohoud_alawad
+#
+##
 #!/bin/bash
 echo "
                  Welcome to Login Successful Report
